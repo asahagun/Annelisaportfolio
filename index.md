@@ -1,14 +1,14 @@
-## Portfolio
+## Annelisa's Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic Design Project
 
-[Project 1 Title](/sample_page)
+[Ripped Text Effect](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Galaxy Cat](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
