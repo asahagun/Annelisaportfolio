@@ -5,15 +5,15 @@
 ### Graphic Design Project
 
 [Ripped Text Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Ripped_Text_Effect.jpg?raw=true"/>
 
 ---
-[Galaxy Cat](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Double Exposure](/pdf/sample_presentation.pdf)
+<img src="Double Exposure.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Graffiti Style](http://example.com/)
+<img src="Graffiti Style.png"/>
 
 ---
 
