@@ -14,22 +14,25 @@
 ---
 [Graffiti Style](http://example.com/)
 <img src="images/Graffiti Style.png?raw=true"/>
+
+---
 [Animal Mashup](http://example.com/)
-<img src="images/unititled.(1)(2)(3).jpg?raw=true"/>
+<img src="images/Untitled(1)(2)(3).jpg?raw=true"/>
+---
+[w](http://example.com/)
+<img src="images/?raw=true"/>
 ---
 
-### Category Name 2
+### Web Design Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Project 1- Earth pg remix](https://trinket.io/html/7282d1f28e)
+- [Project 2- My favorite celebrity](https://trinket.io/html/15e47d6f04)
+- [Project 3- Tell a story](https://trinket.io/html/6205b16172)
+- [Project 4- Halloweeb card](https://trinket.io/html/9675d820b0)
+- [Project 5- Design a robot](https://trinket.io/html/f35569f66a)
 ---
-
-
-
+### My Midterm Project
+- [Midterm Project- Photography](https://annelisas.w3spaces.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
