@@ -18,9 +18,11 @@
 ---
 [Project 4- Animal Mashup](http://example.com/)
 <img src="images/Untitled(1)(2)(3).jpg?raw=true"/>
+
 ---
 [Project 5- Face Slice ](http://example.com/)
 <img src="images/Untitled.png?raw=true"/>
+
 ---
 
 ### Web Design Project
