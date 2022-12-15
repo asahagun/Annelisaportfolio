@@ -5,15 +5,15 @@
 ### Graphic Design Project
 
 [Ripped Text Effect](/sample_page)
-<img src="Ripped_Text_Effect.jpg?raw=true"/>
+<img src="images/Ripped_Text_Effect.jpg?raw=true"/>
 
 ---
 [Double Exposure](/pdf/sample_presentation.pdf)
-<img src="Double Exposure.jpg?raw=true"/>
+<img src="images/Double Exposure.jpg?raw=true"/>
 
 ---
 [Graffiti Style](http://example.com/)
-<img src="Graffiti Style.png"/>
+<img src="images/Graffiti Style.png?raw=true"/>
 
 ---
 
