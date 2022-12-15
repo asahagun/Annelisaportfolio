@@ -14,7 +14,8 @@
 ---
 [Graffiti Style](http://example.com/)
 <img src="images/Graffiti Style.png?raw=true"/>
-
+[Animal Mashup](http://example.com/)
+<img src="images/unititled.(1)(2)(3).jpg?raw=true"/>
 ---
 
 ### Category Name 2
