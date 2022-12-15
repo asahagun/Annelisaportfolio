@@ -4,32 +4,32 @@
 
 ### Graphic Design Project
 
-[Ripped Text Effect](/sample_page)
+[Project 1- Ripped Text Effect](/sample_page)
 <img src="images/Ripped_Text_Effect.jpg?raw=true"/>
 
 ---
-[Double Exposure](/pdf/sample_presentation.pdf)
+[Project 2- Double Exposure](/pdf/sample_presentation.pdf)
 <img src="images/Double Exposure.jpg?raw=true"/>
 
 ---
-[Graffiti Style](http://example.com/)
+[Project 3- Graffiti Style](http://example.com/)
 <img src="images/Graffiti Style.png?raw=true"/>
 
 ---
-[Animal Mashup](http://example.com/)
+[Project 4- Animal Mashup](http://example.com/)
 <img src="images/Untitled(1)(2)(3).jpg?raw=true"/>
 ---
-[w](http://example.com/)
-<img src="images/?raw=true"/>
+[Project 5- Winter Wonderland ](http://example.com/)
+<img src="images/bubble.mp4?raw=true"/>
 ---
 
 ### Web Design Project
 
-- [Project 1- Earth pg remix](https://trinket.io/html/7282d1f28e)
-- [Project 2- My favorite celebrity](https://trinket.io/html/15e47d6f04)
-- [Project 3- Tell a story](https://trinket.io/html/6205b16172)
-- [Project 4- Halloweeb card](https://trinket.io/html/9675d820b0)
-- [Project 5- Design a robot](https://trinket.io/html/f35569f66a)
+- [Project 1- Earth Remix](https://trinket.io/html/7282d1f28e)
+- [Project 2- My Favorite Celebrity](https://trinket.io/html/15e47d6f04)
+- [Project 3- Tell A Story](https://trinket.io/html/6205b16172)
+- [Project 4- Halloween Card](https://trinket.io/html/9675d820b0)
+- [Project 5- Design A Robot](https://trinket.io/html/f35569f66a)
 ---
 ### My Midterm Project
 - [Midterm Project- Photography](https://annelisas.w3spaces.com/)
